@@ -1,0 +1,19 @@
+{
+  "name": "advent-of-code-2020",
+  "version": "1.0.0",
+  "description": "My solutions to Advent Of Code 2020 written in JavaScript with NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "dotenv": "^8.2.0"
+  },
+  "dependencies": {
+    "advent-of-code-client": "^0.1.2",
+    "mathjs": "^8.1.0"
+  }
+}
